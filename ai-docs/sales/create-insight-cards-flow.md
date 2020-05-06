@@ -109,7 +109,9 @@ In this procedure, we will show as an example how to create an insight to act wh
       - **Action**: The convenient links that will help you complete whatever type of action the card is recommending. The number (up to two) and types of links provided here vary by card type. To learn more, see [Add actions to cards](#add-actions-to-cards).
       - **Action Parameter**: The ID of the created action.
       - Optionally, you can configure the advanced options for the condition. Select **Show advanced options** and update the parameters **Title**, **Start Date**, **End Date**, **Display to**, **Reasons**, **Regarding Object ID**, **Action Parameter Entity ID Type**, and **Regarding Object Type**.
-        
+    > [!NOTE]
+    > Insight Cards will be displayed to the Flow owner by default. Populate the Display to field to show to other Sales Insights users
+    
       When you select a text box, the dynamic content pane appears. You can select and add the relevant fields. These dynamic content field variables and values displayed by these fields change according to the information passed.
 
       > [!div class="mx-imgBorder"]       
